@@ -47,3 +47,5 @@ IMPORTANT: Select demo based on indenter used (GerlingIndenter, AuroraIndenter)
 2) TrialAveraging_Demo_4PLfit_GerlingIndenter # Use this demo next if you want to compare Dynamic and Static Firing Rates
 
 3) Summary_Figure_Demo_GerlingIndenter # Use this demo to make a figure quality summary figure
+
+test
